@@ -34,6 +34,13 @@ A simple Node.js script to send messages (text and attachments) to multiple What
     }
     ```
 
+    **Formatting Tips:**
+    -   **Bold**: Surround text with asterisks, e.g., `*Hello*` -> **Hello**
+    -   **Italic**: Surround text with underscores, e.g., `_Hello_` -> *Hello*
+    -   **Strikethrough**: Surround text with tildes, e.g., `~Hello~` -> ~~Hello~~
+    -   **Monospace**: Surround text with three backticks, e.g., ``` ```Hello``` ``` -> `Hello`
+    -   **Newlines**: Use `\n` to add a line break in your message text.
+
 ## Usage
 
 1.  Run the script:
